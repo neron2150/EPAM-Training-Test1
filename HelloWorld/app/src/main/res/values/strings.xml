@@ -3,6 +3,7 @@
     <string name="label_text1">HelloWorld</string>
     <string name="label_text2">HelloEPAM</string>
     <string name="btn_change">switch</string>
+    <string name="btn_change1">switch</string>
 
 
 </resources>
